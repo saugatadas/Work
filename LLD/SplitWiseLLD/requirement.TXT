@@ -1,0 +1,18 @@
+Requirements
+
+1. Users can register and update their profiles
+2. User can add friends
+3. User can create groups
+4. User can add/remove friends from group
+5. User can add expense
+6. For an expense, we can add the following details
+   a. description
+   b. currency
+   c. amount
+   d. date of expense
+   e. who/whoall are paying and how much
+   f. Split strategy (equal or by specific amount)
+   g. add people who are supposed to pay
+7. Group will have list of expense
+8. User can settle up expense with minimum possible transactions
+   
